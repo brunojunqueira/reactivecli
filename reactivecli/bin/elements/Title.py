@@ -1,4 +1,4 @@
-from bin.elements.Element import Element
+from reactivecli.bin.elements.Element import Element
 
 
 class Title(Element):

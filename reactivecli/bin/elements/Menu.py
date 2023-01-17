@@ -1,6 +1,6 @@
 import os
-from bin.text import color, background, error
-from bin.utils.watchdog import Watcher
+from reactivecli.bin.text import color, background, error
+from reactivecli.bin.utils.watchdog import Watcher
 from sshkeyboard import listen_keyboard, stop_listening
 
 
